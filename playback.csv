@@ -1,0 +1,56 @@
+latency,behaviour,scan,look up,look down,magpie number,site,position,call type,day
+5,flee,,,,1,lsgy,G,B high,23.10.25
+8,scan,67,67,0,1,ld,G,B high,23.10.28
+5,flee,,,,1,jzz,G,B high,23.11.1
+9,flee,,,,1,ld,G,B high,23.11.4
+8,flee,45,45,0,2,lsgy,G,B high,23.11.6
+3,flee,97,81,16,2,jzz,G,B high,23.11.14
+9,flee,,,,3,jzz,T,B high,23.11.24
+9,flee,208,175,33,4,lsgy,T,B high,23.11.28
+3,flee,221,193,28,3,ld,G,B high,23.11.29
+5,flee,123,123,0,4,lyj,T,B high,23.11.30
+9,flee,,,,1,jzz,G,B high,23.12.4
+9,flee,169,99,70,1,jzz,G,B high,23.12.11
+8,flee,80,80,0,2,jzz,G,B high,23.12.11
+9,scan,186,143,43,1,lyj,T,B high,24.1.24
+9,flee,258,258,0,1,jzz,G,B high,24.1.26
+7,flee,93,42,51,2,lsgy,G,B high,24.1.26
+5,scan,105,105,0,5,lsgy,T,B high,24.2.3
+10,scan,242,242,0,2,lsgy,T,B high,24.2.7
+2,flee,79,29,50,2,jzz,G,B low,23.11.14
+5,scan,22,22,0,1,txg,T,B low,23.11.17
+8,flee,,,,3,jzz,G,B low,23.11.24
+9,scan,40,0,40,4.5,lyj,T,B low,23.11.30
+11,flee,,,,1,jzz,G,B low,23.12.4
+7,flee,171,33,138,1,jzz,T,B low,23.12.6
+14,scan,24,24,0,4,lsgy,G,B low,23.12.6
+4,flee,52,52,0,1,lyj,T,B low,23.12.7
+7,scan,46,46,0,1,lsgy,T,B low,23.12.12
+11,scan,79,79,0,1,lsgy,T,B low,24.1.26
+5,scan,36,21,15,2,lyj,T,B low,24.1.31
+10,scan,37,26,11,3,lsgy,T,B low,24.1.31
+10,scan,29,29,0,3.5,lsgy,T,B low,24.2.3
+13,scan,31,31,0,5,lsgy,T,B low,24.2.7
+8,scan,23,23,0,1,zf,G,A,23.11.15
+6,scan,64,0,64,2,ld,T,A,23.10.28
+6,scan,108,108,0,9,jzz,G,A,23.11.1
+7,scan,31,0,31,1,ld,T,A,23.11.4
+6,scan,12,12,0,1.5,jzz,G,A,23.11.14
+8,scan,55,0,55,3,jzz,G,A,23.11.17
+7,flee,,,,1,jzz,G,A,23.11.29
+7,scan,93,93,0,2,jzz,G,A,23.12.6
+7,scan,30,30,0,3,jzz,G,A,23.12.11
+9,scan,55,30,26,1,lyj,T,A,24.1.24
+13,scan,63,0,63,2,lyj,T,A,24.1.31
+9,scan,11,0,11,1,lsgy,G,A,24.1.31
+12,scan,287,0,287,1,lsgy,T,A,24.2.5
+,other,,,,1,ld,T,Ctrl,23.11.15
+,flee,,,,3,jzz,G,Ctrl,23.11.17
+,other,,,,1,lsgy,G,Ctrl,23.11.17
+,other,,,,6,jzz,G,Ctrl,23.11.24
+,other,,,,1.5,ld,T,Ctrl,23.11.2
+,other,,,,5,lsgy,G,Ctrl,23.11.6
+,flee,,,,7,jzz,G,Ctrl,23.11.14
+,other,,,,4.5,lsgy,G,Ctrl,23.11.14
+,other,,,,1,jzz,G,Ctrl,23.11.29
+,other,,,,2,lsgy,T,Ctrl,24.2.7
